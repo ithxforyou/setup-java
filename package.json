@@ -26,8 +26,13 @@
   "author": "GitHub",
   "license": "MIT",
   "dependencies": {
+|<<<<<<< snyk-upgrade-542a30a1f488b6c5a2ead541a8fd1a64
+    "@actions/cache": "^3.2.4",
+    "@actions/core": "^1.11.1",
+|=======
     "@actions/cache": "^4.0.2",
     "@actions/core": "^1.10.0",
+|>>>>>>> main
     "@actions/exec": "^1.0.4",
     "@actions/glob": "^0.4.0",
     "@actions/http-client": "^2.2.3",
